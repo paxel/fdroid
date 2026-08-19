@@ -51,5 +51,56 @@
     "size": 87672645,
     "apkName": "catlog-0.1.3-android-universal.apk",
     "added": 1787068321.838639
+  },
+  "catlog-0.1.4-android-universal.apk": {
+    "hash": "d8d14d3e67860c3bf40f7e53e3807a049d4ff911dc9a85691af94242a0d7269e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "io.github.paxel.catlog.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.github.paxel.catlog",
+    "versionCode": 120,
+    "name": "catlog",
+    "versionName": "0.1.4",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "3d2b78bead69e043505ab4da6d3a8aee",
+    "signer": "c82244429913fc74cdcdb1b9f9c57b4af3353980d6edda4685971209dfe146e5",
+    "size": 87869269,
+    "apkName": "catlog-0.1.4-android-universal.apk",
+    "added": 1787122015.895581
   }
 }

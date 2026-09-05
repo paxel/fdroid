@@ -2316,5 +2316,159 @@
     "size": 44410742,
     "apkName": "catlog-1.1.0-android-armeabi-v7a.apk",
     "added": 1788200644.292618
+  },
+  "catlog-1.1.1-android-arm64-v8a.apk": {
+    "hash": "eb1b2a79c1fabbffddd29fbbd4c71b96438169664cd8cbd1e4bb6cafce87f39e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.NEARBY_WIFI_DEVICES",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "io.github.paxel.catlog.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.github.paxel.catlog",
+    "versionCode": 2158,
+    "name": "catlog",
+    "versionName": "1.1.1",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "3d2b78bead69e043505ab4da6d3a8aee",
+    "signer": "c82244429913fc74cdcdb1b9f9c57b4af3353980d6edda4685971209dfe146e5",
+    "size": 51752626,
+    "apkName": "catlog-1.1.1-android-arm64-v8a.apk",
+    "added": 1788624145.144046
+  },
+  "catlog-1.1.1-android-armeabi-v7a.apk": {
+    "hash": "0bd7dbc78d76b657de9dff0823246c3c5c90447e98cde1e0855557e5dfe72861",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.NEARBY_WIFI_DEVICES",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "io.github.paxel.catlog.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.github.paxel.catlog",
+    "versionCode": 1158,
+    "name": "catlog",
+    "versionName": "1.1.1",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "armeabi-v7a"
+    ],
+    "sig": "3d2b78bead69e043505ab4da6d3a8aee",
+    "signer": "c82244429913fc74cdcdb1b9f9c57b4af3353980d6edda4685971209dfe146e5",
+    "size": 44624166,
+    "apkName": "catlog-1.1.1-android-armeabi-v7a.apk",
+    "added": 1788624145.514816
   }
 }

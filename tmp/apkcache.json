@@ -6136,5 +6136,183 @@
     "size": 49048004,
     "apkName": "catlog-2.0.6-android-armeabi-v7a.apk",
     "added": 1790524537.804395
+  },
+  "catlog-2.0.7-android-arm64-v8a.apk": {
+    "hash": "a32560d17d4c432f6ee5cb38b113c52a996c0986187a7e1722b503aaa454243c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.NEARBY_WIFI_DEVICES",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "io.github.paxel.catlog.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.github.paxel.catlog",
+    "versionCode": 2229,
+    "name": "catlog",
+    "versionName": "2.0.7",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "3d2b78bead69e043505ab4da6d3a8aee",
+    "signer": "c82244429913fc74cdcdb1b9f9c57b4af3353980d6edda4685971209dfe146e5",
+    "size": 56258672,
+    "apkName": "catlog-2.0.7-android-arm64-v8a.apk",
+    "added": 1790622647.224648
+  },
+  "catlog-2.0.7-android-armeabi-v7a.apk": {
+    "hash": "8831f2a31f35354ff3488391627f9d5e82863353afd1c90f1591e287acaaf213",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.NEARBY_WIFI_DEVICES",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "io.github.paxel.catlog.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.github.paxel.catlog",
+    "versionCode": 1229,
+    "name": "catlog",
+    "versionName": "2.0.7",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "armeabi-v7a"
+    ],
+    "sig": "3d2b78bead69e043505ab4da6d3a8aee",
+    "signer": "c82244429913fc74cdcdb1b9f9c57b4af3353980d6edda4685971209dfe146e5",
+    "size": 49490664,
+    "apkName": "catlog-2.0.7-android-armeabi-v7a.apk",
+    "added": 1790622647.479629
   }
 }

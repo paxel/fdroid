@@ -6492,5 +6492,151 @@
     "size": 49509400,
     "apkName": "catlog-2.1.0-android-armeabi-v7a.apk",
     "added": 1790836868.444031
+  },
+  "chaos-alert-0.1.0-android-arm64-v8a.apk": {
+    "hash": "c02a30ab364c4e3fa8a26f84aa5220323d2366d22360994621c77f5580684880",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.USE_EXACT_ALARM",
+        null
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        32
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_AUDIO",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "io.github.paxel.chaos_alert.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.github.paxel.chaos_alert",
+    "versionCode": 2001,
+    "name": "chaos-alert",
+    "versionName": "0.1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "62dc3787b4621ca18e0091952336285a",
+    "signer": "f9c222c0b0d7412c58d3acb08661f20faee3bca2e789cf139de7ac3cc4f59cf8",
+    "size": 20732856,
+    "apkName": "chaos-alert-0.1.0-android-arm64-v8a.apk",
+    "added": 1790871055.599501
+  },
+  "chaos-alert-0.1.0-android-armeabi-v7a.apk": {
+    "hash": "2729119577eabef5a3569494d653645b77674d6a02b710a0185135ea20a2ca77",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.USE_EXACT_ALARM",
+        null
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        32
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_AUDIO",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "io.github.paxel.chaos_alert.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.github.paxel.chaos_alert",
+    "versionCode": 1001,
+    "name": "chaos-alert",
+    "versionName": "0.1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "armeabi-v7a"
+    ],
+    "sig": "62dc3787b4621ca18e0091952336285a",
+    "signer": "f9c222c0b0d7412c58d3acb08661f20faee3bca2e789cf139de7ac3cc4f59cf8",
+    "size": 18273028,
+    "apkName": "chaos-alert-0.1.0-android-armeabi-v7a.apk",
+    "added": 1790871055.896019
   }
 }

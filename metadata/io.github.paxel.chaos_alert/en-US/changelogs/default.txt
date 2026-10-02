@@ -1,0 +1,3 @@
+• "I'm awake" button on the main screen and a silent notification in the hour before the first wake-up alarm; the right word turns off that morning's wake-up alarms.
+• A wrong word now snoozes the alarm and drops out of the next try; only the right word turns the alarm off.
+All changes: https://github.com/paxel/chaos-alert/blob/HEAD/CHANGELOG.md

@@ -1,0 +1,2 @@
+• The F-Droid repository is now called "paxel's apps" and also carries chaos-alert; the address stays the same.
+All changes: https://github.com/paxel/catlog/blob/HEAD/CHANGELOG.md

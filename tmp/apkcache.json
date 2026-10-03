@@ -6710,7 +6710,7 @@
     "signer": "f9c222c0b0d7412c58d3acb08661f20faee3bca2e789cf139de7ac3cc4f59cf8",
     "size": 20798664,
     "apkName": "chaos-alert-0.2.0-android-arm64-v8a.apk",
-    "added": 1790953422.838788
+    "added": 1790953422.0
   },
   "chaos-alert-0.2.0-android-armeabi-v7a.apk": {
     "hash": "31ee31d22af07265006b97a47a10f29d121e340f4f01581ea3b26669d11fa974",
@@ -6783,7 +6783,7 @@
     "signer": "f9c222c0b0d7412c58d3acb08661f20faee3bca2e789cf139de7ac3cc4f59cf8",
     "size": 18306064,
     "apkName": "chaos-alert-0.2.0-android-armeabi-v7a.apk",
-    "added": 1790953423.145045
+    "added": 1790953423.0
   },
   "catlog-2.2.0-android-arm64-v8a.apk": {
     "hash": "3b97336683fd937031b804e22dc0755a0f7c9e5ae4ca5fb1cd510c5354f91be8",

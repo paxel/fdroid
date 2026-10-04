@@ -1,3 +1,4 @@
-• "I'm awake" button on the main screen and a silent notification in the hour before the first wake-up alarm; the right word turns off that morning's wake-up alarms.
-• A wrong word now snoozes the alarm and drops out of the next try; only the right word turns the alarm off.
+• The bedtime nag now argues before it asks: each popup brings one of 300 lines about sleep, dreams, puffy eyes, the Matrix and fairy tales, none repeating until all were shown.
+• F-Droid keeps the three versions before the current one in its archive, so you can go back after a bad update.
+• F-Droid now ships the 64-bit build only; the 32-bit APK stays available on the GitHub release page.
 All changes: https://github.com/paxel/chaos-alert/blob/HEAD/CHANGELOG.md

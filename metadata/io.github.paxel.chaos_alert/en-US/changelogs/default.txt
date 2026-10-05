@@ -1,4 +1,4 @@
-• The bedtime nag now argues before it asks: each popup brings one of 300 lines about sleep, dreams, puffy eyes, the Matrix and fairy tales, none repeating until all were shown.
-• F-Droid keeps the three versions before the current one in its archive, so you can go back after a bad update.
-• F-Droid now ships the 64-bit build only; the 32-bit APK stays available on the GitHub release page.
-All changes: https://github.com/paxel/chaos-alert/blob/HEAD/CHANGELOG.md
+• The ringing alarm's notification has a Snooze button, so the alarm can be silenced without the app screen.
+• An event log under About lists what the app and Android did in the last 7 days, with a Copy button for bug reports.
+• Snooze stops the alarm sound first, before anything else happens.
+• "I'm in bed", a nag's Yes or a late nag after the night's morning started no longer start the next night early and hand out its word.

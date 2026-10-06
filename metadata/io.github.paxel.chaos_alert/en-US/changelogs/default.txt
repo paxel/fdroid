@@ -1,4 +1,4 @@
-• The ringing alarm's notification has a Snooze button, so the alarm can be silenced without the app screen.
-• An event log under About lists what the app and Android did in the last 7 days, with a Copy button for bug reports.
-• Snooze stops the alarm sound first, before anything else happens.
-• "I'm in bed", a nag's Yes or a late nag after the night's morning started no longer start the next night early and hand out its word.
+• An "Easier quiz" switch in Settings brings back picking the whole word from four.
+• The quiz now asks for the word's first letters in three rounds, one letter more each time, and shows the whole word at the end.
+• After "I'm awake", no nag pops up right away anymore, and "I'm in bed" waits for the evening.
+• A nag that already showed no longer pops up again after a restart or when the alarm is snoozed from its notification.

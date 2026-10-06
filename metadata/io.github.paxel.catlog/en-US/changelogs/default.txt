@@ -1,2 +1,2 @@
-• The F-Droid repository is now called "paxel's apps" and also carries chaos-alert; the address stays the same.
+• Frames kept from a video — for a cat or a new stray — offer the crop step one after the other before they are stored, cut from the frame at the video's full size. A cat cut out of a 4K video keeps far more detail than when cropped later from the stored photo. "Use full photo" keeps a frame whole; Cancel drops only that frame.
 All changes: https://github.com/paxel/catlog/blob/HEAD/CHANGELOG.md

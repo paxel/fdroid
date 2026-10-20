@@ -7343,5 +7343,94 @@
     "size": 20872512,
     "apkName": "chaos-alert-0.6.0-android-arm64-v8a.apk",
     "added": 1791404580.95283
+  },
+  "catlog-2.4.0-android-arm64-v8a.apk": {
+    "hash": "24e9c1b34a62949e8fce9bec8abd0ad6af8363adca24b79183907f0cea353dfb",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.NEARBY_WIFI_DEVICES",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "io.github.paxel.catlog.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.github.paxel.catlog",
+    "versionCode": 2243,
+    "name": "catlog",
+    "versionName": "2.4.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "3d2b78bead69e043505ab4da6d3a8aee",
+    "signer": "c82244429913fc74cdcdb1b9f9c57b4af3353980d6edda4685971209dfe146e5",
+    "size": 56408924,
+    "apkName": "catlog-2.4.0-android-arm64-v8a.apk",
+    "added": 1792516508.410882
   }
 }

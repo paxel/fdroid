@@ -7685,7 +7685,7 @@
     "added": 1792842684.44712
   },
   "oldbrainfix-0.1.0-android-arm64-v8a.apk": {
-    "hash": "d901db05283b74e3fef1e71cc5c538c9ad1a6da07ad8c2943ee4e00b4eacd728",
+    "hash": "08490b8822092ce2784d0731e02f10236b2f1ccb7b92be965890e9c056941ced",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -7767,7 +7767,7 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "io.github.paxel.oldbrainfix",
-    "versionCode": 2008,
+    "versionCode": 2009,
     "name": "Old Brain Fix",
     "versionName": "0.1.0",
     "minSdkVersion": 24,
@@ -7777,8 +7777,8 @@
     ],
     "sig": "d95825bab4508a15791ad87e808aa007",
     "signer": "730ad4676277503791e4db9bb0e084b192d0c06f93c61fa3de974177b011fdd6",
-    "size": 41597042,
+    "size": 41629814,
     "apkName": "oldbrainfix-0.1.0-android-arm64-v8a.apk",
-    "added": 1793034019.547578
+    "added": 1793034019.0
   }
 }

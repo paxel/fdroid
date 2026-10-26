@@ -1,0 +1,6 @@
+Neu
+• Text-, Foto- und Sprachnotizen über +, Widgets, Schnelleinstellungen und App-Verknüpfungen.
+• Bereiche und Themen zum Einsortieren; neue Notizen warten in Unsortiert.
+• Routinen und Erinnerungen mit exakten Alarmen, Erneut erinnern und einem Verlauf je Routine.
+• Abgleich mit der Desktop-App im Heimnetz, über einen geteilten Ordner oder eine Datei.
+• Verschlüsselte Sicherungen, App-Sperre und Bereichssperren. Kein Konto, kein Server.

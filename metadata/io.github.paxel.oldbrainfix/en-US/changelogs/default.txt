@@ -1,0 +1,6 @@
+Added
+• Text, photo and voice Notes from the +, widgets, Quick Settings tiles and app shortcuts.
+• Areas and Topics to file Notes into; new Notes wait in Unsorted.
+• Routines and Reminders with exact alarms, Re-nag and a history per Routine.
+• Sync with the desktop app over the home network, a shared folder or a file.
+• Encrypted Backups, App Lock and Area Locks. No account, no server.

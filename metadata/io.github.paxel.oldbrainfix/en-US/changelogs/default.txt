@@ -1,6 +1,12 @@
-Added
-• Text, photo and voice Notes from the +, widgets, Quick Settings tiles and app shortcuts.
-• Areas and Topics to file Notes into; new Notes wait in Unsorted.
-• Routines and Reminders with exact alarms, Re-nag and a history per Routine.
-• Sync with the desktop app over the home network, a shared folder or a file.
-• Encrypted Backups, App Lock and Area Locks. No account, no server.
+New
+• The Agenda shows the whole week.
+• Note cards with an icon row and a ⋮ menu.
+• Remove a recording or photo and keep its text.
+• Playback speed from 0.5× to 2×.
+• English words in German speech are transcribed better; a larger speech model is optional.
+• Routines on a day of the month, with an end.
+• Large Photo and Voice buttons when capturing.
+• Swipe from the Agenda to the Areas.
+Fixed
+• Page ends no longer hide under the navigation bar.
+• Lists no longer show old Notes after sorting.

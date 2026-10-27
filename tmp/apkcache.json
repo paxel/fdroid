@@ -7780,5 +7780,102 @@
     "size": 41629814,
     "apkName": "oldbrainfix-0.1.0-android-arm64-v8a.apk",
     "added": 1793034019.0
+  },
+  "oldbrainfix-0.1.1-android-arm64-v8a.apk": {
+    "hash": "00b360e95c815d9e8ba7c3b76d6cc6171fa0f8b4659b4e88d7b5dc44194af0b8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH_CONNECT",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        30
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "io.github.paxel.oldbrainfix.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.github.paxel.oldbrainfix",
+    "versionCode": 2010,
+    "name": "Old Brain Fix",
+    "versionName": "0.1.1",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "d95825bab4508a15791ad87e808aa007",
+    "signer": "730ad4676277503791e4db9bb0e084b192d0c06f93c61fa3de974177b011fdd6",
+    "size": 41784321,
+    "apkName": "oldbrainfix-0.1.1-android-arm64-v8a.apk",
+    "added": 1793101413.162322
   }
 }

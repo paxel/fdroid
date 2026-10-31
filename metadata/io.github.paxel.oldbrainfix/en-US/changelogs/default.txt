@@ -1,12 +1,13 @@
 New
-• The Agenda shows the whole week.
-• Note cards with an icon row and a ⋮ menu.
-• Remove a recording or photo and keep its text.
-• Playback speed from 0.5× to 2×.
-• English words in German speech are transcribed better; a larger speech model is optional.
-• Routines on a day of the month, with an end.
-• Large Photo and Voice buttons when capturing.
-• Swipe from the Agenda to the Areas.
+• Checklists, and Shopping Lists with Lines that come back.
+• Formatted text with tables, boxes and #tags.
+• Tallies with charts, Sessions and Frogs.
+• Paste and Gallery when capturing.
+• Share a Note to any other app.
+• Add a Device of yours at the first start.
+• Share an Area from afar.
+Changed
+• Sort and schedule while capturing.
+• Photo text reads ä, ö, ü, ß and €.
 Fixed
-• Page ends no longer hide under the navigation bar.
-• Lists no longer show old Notes after sorting.
+• Capture buttons stand out clearly.

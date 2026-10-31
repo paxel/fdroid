@@ -1,12 +1,13 @@
 Neu
-• Die Agenda zeigt die ganze Woche.
-• Notizkarten mit Symbolzeile und ⋮-Menü.
-• Aufnahme oder Foto entfernen, der Text bleibt.
-• Wiedergabe von 0,5× bis 2×.
-• Englische Wörter im Deutschen besser erkannt; größeres Sprachmodell wählbar.
-• Routinen an einem Tag des Monats, mit Ende.
-• Große Foto- und Sprachknöpfe beim Erfassen.
-• Wischen von der Agenda zu den Bereichen.
+• Checklisten und Einkaufslisten mit wiederkehrenden Zeilen.
+• Formatierter Text mit Tabellen, Statuskästchen und #Wörtern.
+• Strichlisten mit Diagrammen, Einheiten und Frösche.
+• Einfügen und Galerie beim Erfassen.
+• Eine Notiz mit jeder anderen App teilen.
+• Beim ersten Start ein eigenes Gerät hinzufügen.
+• Einen Bereich aus der Ferne teilen.
+Geändert
+• Beim Erfassen einsortieren und planen.
+• Fototext liest ä, ö, ü, ß und €.
 Behoben
-• Seitenenden nicht mehr unter der Navigationsleiste.
-• Keine alten Notizen in Listen nach dem Einsortieren.
+• Erfassen-Knöpfe heben sich klar ab.

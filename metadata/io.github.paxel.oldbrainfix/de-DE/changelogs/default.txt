@@ -1,15 +1,8 @@
-Neu
-• Checklisten in der Agenda.
-• Ordner oder Google Keep importieren.
-• Ein Foto speichern, kopieren oder teilen.
-• + legt Listen, Strichlisten, Einheiten, Frösche an.
-• Erfassten Ort, Termin oder Gerät entfernen.
 Geändert
-• Schlichtere Schnellnotiz mit „Zum vollen Editor“.
-• Einstellungen einer Notiz als Plaketten.
-• Listenzeilen direkt eintippen.
-• Tabellen beim Bearbeiten als Raster.
-• Widget zeigt die ganze Agenda.
-• Profil als Datei schicken.
+• Die Wichtigkeit wird nur im Editor gesetzt.
 Behoben
-• Letzte Zeile scrollt am + vorbei.
+• Das Agenda-Widget zeigt wieder jede Reihe.
+• Eine Einheit behält eine eingetauschte, erledigte Wahl.
+• Abschnitte einer Notiz bearbeiten und kopieren.
+• Listen werden als ein Block von Zeilen getippt.
+• Jede Einkaufsliste wählt, wie sie in der Agenda erscheint.

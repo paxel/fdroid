@@ -1,15 +1,8 @@
-New
-• Checklists on the Agenda.
-• Import a folder of notes or a Google Keep export.
-• Save, copy or share a photo.
-• + makes lists, Tallies, Sessions and Frogs.
-• Remove a captured place, event or device.
 Changed
-• A plainer quick note with "To full editor".
-• A Note's settings as badges in the editor.
-• Type list Lines in place.
-• Tables show as a grid while editing.
-• The widget shows the whole Agenda.
-• Send your Profile as a file.
+• Importance is set in the editor only.
 Fixed
-• The last row scrolls clear of +.
+• The Agenda widget shows every row again.
+• A Session keeps a swapped-in pick that is done.
+• Edit and copy the Sections of a Note.
+• Lists are typed as one block of lines.
+• Each Shopping List chooses how it shows on the Agenda.

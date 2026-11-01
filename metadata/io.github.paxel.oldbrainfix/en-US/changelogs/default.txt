@@ -1,13 +1,15 @@
 New
-• Checklists, and Shopping Lists with Lines that come back.
-• Formatted text with tables, boxes and #tags.
-• Tallies with charts, Sessions and Frogs.
-• Paste and Gallery when capturing.
-• Share a Note to any other app.
-• Add a Device of yours at the first start.
-• Share an Area from afar.
+• Checklists on the Agenda.
+• Import a folder of notes or a Google Keep export.
+• Save, copy or share a photo.
+• + makes lists, Tallies, Sessions and Frogs.
+• Remove a captured place, event or device.
 Changed
-• Sort and schedule while capturing.
-• Photo text reads ä, ö, ü, ß and €.
+• A plainer quick note with "To full editor".
+• A Note's settings as badges in the editor.
+• Type list Lines in place.
+• Tables show as a grid while editing.
+• The widget shows the whole Agenda.
+• Send your Profile as a file.
 Fixed
-• Capture buttons stand out clearly.
+• The last row scrolls clear of +.

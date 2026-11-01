@@ -1,13 +1,15 @@
 Neu
-• Checklisten und Einkaufslisten mit wiederkehrenden Zeilen.
-• Formatierter Text mit Tabellen, Statuskästchen und #Wörtern.
-• Strichlisten mit Diagrammen, Einheiten und Frösche.
-• Einfügen und Galerie beim Erfassen.
-• Eine Notiz mit jeder anderen App teilen.
-• Beim ersten Start ein eigenes Gerät hinzufügen.
-• Einen Bereich aus der Ferne teilen.
+• Checklisten in der Agenda.
+• Ordner oder Google Keep importieren.
+• Ein Foto speichern, kopieren oder teilen.
+• + legt Listen, Strichlisten, Einheiten, Frösche an.
+• Erfassten Ort, Termin oder Gerät entfernen.
 Geändert
-• Beim Erfassen einsortieren und planen.
-• Fototext liest ä, ö, ü, ß und €.
+• Schlichtere Schnellnotiz mit „Zum vollen Editor“.
+• Einstellungen einer Notiz als Plaketten.
+• Listenzeilen direkt eintippen.
+• Tabellen beim Bearbeiten als Raster.
+• Widget zeigt die ganze Agenda.
+• Profil als Datei schicken.
 Behoben
-• Erfassen-Knöpfe heben sich klar ab.
+• Letzte Zeile scrollt am + vorbei.

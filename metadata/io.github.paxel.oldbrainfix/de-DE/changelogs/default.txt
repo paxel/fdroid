@@ -1,8 +1,13 @@
+Neu
+• Notizen haben Arten: Checkliste, Einkaufsliste, Strichliste, Einheit.
+• Pakete geben Kopien von Notizen weiter.
+• Verlauf einer Notiz; Code-Text, Codeblöcke.
+• Einfach oder Erweitert; Dicke Finger.
+• Erledigt direkt in Notiz und Karten.
+• Hilfe-Notizen und Feedback senden.
 Geändert
-• Die Wichtigkeit wird nur im Editor gesetzt.
+• Die Agenda gruppiert Reihen, blendet Abgehaktes auf Wunsch aus.
+• Das Widget zeigt die Tage der Agenda.
+• Abgleich und Agenda im Hintergrund.
 Behoben
-• Das Agenda-Widget zeigt wieder jede Reihe.
-• Eine Einheit behält eine eingetauschte, erledigte Wahl.
-• Abschnitte einer Notiz bearbeiten und kopieren.
-• Listen werden als ein Block von Zeilen getippt.
-• Jede Einkaufsliste wählt, wie sie in der Agenda erscheint.
+• Schnelles Wischen öffnet sofort die Bereiche.

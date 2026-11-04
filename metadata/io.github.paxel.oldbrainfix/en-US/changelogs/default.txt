@@ -1,8 +1,13 @@
+Added
+• Notes have kinds: Checklist, Shopping List, Tally, Session.
+• Packs hand copies of Notes to other people.
+• A Note's History; Code text and code blocks.
+• Simple or Advanced; Fat fingers.
+• Done right from a Note and its cards.
+• Help Notes and Send feedback.
 Changed
-• Importance is set in the editor only.
+• The Agenda groups its rows and can hide what is checked.
+• The widget shows the Agenda's days.
+• Sync and the Agenda load in the background.
 Fixed
-• The Agenda widget shows every row again.
-• A Session keeps a swapped-in pick that is done.
-• Edit and copy the Sections of a Note.
-• Lists are typed as one block of lines.
-• Each Shopping List chooses how it shows on the Agenda.
+• A quick swipe opens the Areas at once.

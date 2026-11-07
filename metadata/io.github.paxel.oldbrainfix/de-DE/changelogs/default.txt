@@ -1,13 +1,13 @@
 Neu
-• Notizen haben Arten: Checkliste, Einkaufsliste, Strichliste, Einheit.
-• Pakete geben Kopien von Notizen weiter.
-• Verlauf einer Notiz; Code-Text, Codeblöcke.
-• Einfach oder Erweitert; Dicke Finger.
-• Erledigt direkt in Notiz und Karten.
-• Hilfe-Notizen und Feedback senden.
+• Links auf Notizen und Seiten: Link zu….
+• Markdown-Aufgaben werden Kästchen.
+• Strichlisten zählen in Sätzen, mit Abhakfeld.
+• Einheiten zeigen bisherige Läufe.
+• Frosch einer Notiz als Abzeichen.
 Geändert
-• Die Agenda gruppiert Reihen, blendet Abgehaktes auf Wunsch aus.
-• Das Widget zeigt die Tage der Agenda.
-• Abgleich und Agenda im Hintergrund.
+• Balkenlänge einer Strichliste in der Einrichtung.
+• Tabellen Zelle für Zelle bearbeiten.
+• Der Schnellstart in „Old Brain Fix“ sagt, wo du tippst.
+• Löschen einer Notiz nimmt Routinen und Erinnerungen in den Papierkorb mit.
 Behoben
-• Schnelles Wischen öffnet sofort die Bereiche.
+• Wischen Agenda/Bereiche reagiert sofort.

@@ -1,13 +1,13 @@
 Added
-• Notes have kinds: Checklist, Shopping List, Tally, Session.
-• Packs hand copies of Notes to other people.
-• A Note's History; Code text and code blocks.
-• Simple or Advanced; Fat fingers.
-• Done right from a Note and its cards.
-• Help Notes and Send feedback.
+• Links to Notes and app pages: Link to….
+• Markdown task lists become boxes.
+• Tallies count in sets and have a Check field.
+• Sessions list their past runs.
+• A Note's Frog shows as a badge.
 Changed
-• The Agenda groups its rows and can hide what is checked.
-• The widget shows the Agenda's days.
-• Sync and the Agenda load in the background.
+• A Tally's bar length is set in its setup.
+• Tables are edited cell by cell.
+• The Quick start in the Area "Old Brain Fix" says where to tap.
+• Deleting a Note moves its Routines and Reminders to the Trash too.
 Fixed
-• A quick swipe opens the Areas at once.
+• The swipe between Agenda and Areas reacts at once.

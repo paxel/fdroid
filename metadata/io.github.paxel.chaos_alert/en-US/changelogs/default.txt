@@ -1,5 +1,4 @@
-• A "Broken teeth" quiz: four words of the same length with the same letters missing.
-• A Sounds page in Settings with a switch for every sound source: alarm sounds, notification sounds, songs and generated sounds.
-• Generated sounds: random mixes of instruments, made new for every alarm and on from the start.
-• Folders of your own as sound sources, each with its own switch, subfolders included.
+• "Show the word" on the main screen once you are in bed, so the word comes when you are ready to sleep.
+• "I'm up" on the main screen after the early quiz: it ends the night and turns off the rest of that morning's wake-up alarms.
+• The timeline tells time in bed apart from supposed sleep: the time lying awake at either end is drawn in a dimmer colour, and a new line shows the average asleep.
 All changes: https://github.com/paxel/chaos-alert/blob/HEAD/CHANGELOG.md

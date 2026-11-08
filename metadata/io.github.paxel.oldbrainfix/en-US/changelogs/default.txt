@@ -1,13 +1,2 @@
-Added
-• Links to Notes and app pages: Link to….
-• Markdown task lists become boxes.
-• Tallies count in sets and have a Check field.
-• Sessions list their past runs.
-• A Note's Frog shows as a badge.
-Changed
-• A Tally's bar length is set in its setup.
-• Tables are edited cell by cell.
-• The Quick start in the Area "Old Brain Fix" says where to tap.
-• Deleting a Note moves its Routines and Reminders to the Trash too.
 Fixed
-• The swipe between Agenda and Areas reacts at once.
+• The iPhone shows the app's own icon.

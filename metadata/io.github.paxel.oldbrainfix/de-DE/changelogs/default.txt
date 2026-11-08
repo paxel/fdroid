@@ -1,13 +1,2 @@
-Neu
-• Links auf Notizen und Seiten: Link zu….
-• Markdown-Aufgaben werden Kästchen.
-• Strichlisten zählen in Sätzen, mit Abhakfeld.
-• Einheiten zeigen bisherige Läufe.
-• Frosch einer Notiz als Abzeichen.
-Geändert
-• Balkenlänge einer Strichliste in der Einrichtung.
-• Tabellen Zelle für Zelle bearbeiten.
-• Der Schnellstart in „Old Brain Fix“ sagt, wo du tippst.
-• Löschen einer Notiz nimmt Routinen und Erinnerungen in den Papierkorb mit.
 Behoben
-• Wischen Agenda/Bereiche reagiert sofort.
+• Das iPhone zeigt das eigene Symbol der App.

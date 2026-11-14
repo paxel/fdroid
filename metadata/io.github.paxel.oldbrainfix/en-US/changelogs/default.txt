@@ -1,2 +1,13 @@
+Added
+• Attach any file to a Note; a PDF opens full screen.
+• Snooze and Not today in more places.
+• Select several Notes and act on them at once.
+• Nested tags such as #life/health, with a tag tree.
+• Ask your own desktop about your Notes.
+• On Android, print to Old Brain Fix from any app.
+• Open a Backup and take Notes back from it.
+Changed
+• Deleting no longer asks; Undo brings it back.
+• A tap on an Occurrence opens its Note.
 Fixed
-• The iPhone shows the app's own icon.
+• Sending a Note picks nobody until you choose.

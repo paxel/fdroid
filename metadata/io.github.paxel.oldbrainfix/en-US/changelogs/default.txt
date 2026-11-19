@@ -1,13 +1,13 @@
 Added
+• Capture makes a Checklist or Shopping List, or adds to a Note.
+• A spoken shopping list becomes Lines of a Shopping List.
 • Attach any file to a Note; a PDF opens full screen.
 • Snooze and Not today in more places.
 • Select several Notes and act on them at once.
-• Nested tags such as #life/health, with a tag tree.
-• Ask your own desktop about your Notes.
-• On Android, print to Old Brain Fix from any app.
-• Open a Backup and take Notes back from it.
+• Text size makes text larger.
+• Ask your desktop about your Notes; switch it on in Settings.
 Changed
 • Deleting no longer asks; Undo brings it back.
 • A tap on an Occurrence opens its Note.
 Fixed
-• Sending a Note picks nobody until you choose.
+• A tapped box ticks at once.

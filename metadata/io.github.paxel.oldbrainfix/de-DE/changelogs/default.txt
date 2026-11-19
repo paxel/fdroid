@@ -1,13 +1,13 @@
 Neu
-• Jede Datei an eine Notiz hängen; PDFs im Vollbild.
+• Erfassen macht Checklisten und Einkaufslisten und ergänzt Notizen.
+• Eine gesprochene Einkaufsliste wird zu Zeilen.
+• Jede Datei anhängen; PDFs im Vollbild.
 • Später und Nicht heute an mehr Stellen.
-• Mehrere Notizen auswählen und gemeinsam bearbeiten.
-• Verschachtelte #Wörter wie #leben/gesundheit.
-• Den eigenen Desktop nach Notizen fragen.
-• Unter Android an Old Brain Fix drucken.
-• Notizen aus einer Sicherung zurückholen.
+• Mehrere Notizen auf einmal bearbeiten.
+• Textgröße macht Text größer.
+• Desktop nach Notizen fragen; in den Einstellungen einschalten.
 Geändert
 • Löschen fragt nicht; Rückgängig holt es zurück.
 • Ein Tipp auf ein Vorkommen öffnet seine Notiz.
 Behoben
-• Senden wählt niemanden, bis du wählst.
+• Kästchen sind sofort abgehakt.
